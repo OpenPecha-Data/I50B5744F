@@ -1,0 +1,18 @@
+id: I50B5744F
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:10.876347
+last_modified: 2023-01-04 11:27:10.876631
+source_metadata:
+  collections:
+  - Adeu Rinpoche Series
+  - Works of Tibetan Masters
+bases:
+  C818:
+    title: Magnetizing (Wangdü) Prayer
+    base_file: C818.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
